@@ -1,0 +1,7 @@
+swanlab 
+python-dotenv 
+torch 
+torchvision 
+matplotlib
+black
+notebook
