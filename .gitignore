@@ -2,3 +2,5 @@
 swanlog
 data
 playground
+.DS_Store
+.gitattributes
